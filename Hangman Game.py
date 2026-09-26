@@ -8,6 +8,8 @@ import random
 
 # Predefined list of words to choose from
 WORD_LIST = ["python", "hangman", "computer", "keyboard", "science"]
+print("Choose from the words: python, hangman, computer, keyboard, science")
+
 
 MAX_INCORRECT_GUESSES = 6
 
